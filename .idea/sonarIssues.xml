@@ -13,6 +13,66 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/api/SearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/common/ResultPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/SearchConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/SearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/elastic/ElasticPersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/elastic/ElasticSearchConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/elastic/document/ElasticPerson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/elastic/repositories/ElasticPersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/java/com/marcskow/spring/bootstrap/java/search/elastic/repository/ElasticPersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/build.gradle">
           <value>
             <set />
