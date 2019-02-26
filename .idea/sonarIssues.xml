@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/BootstrapJavaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/audit/Audit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonNotFound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/person/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/person/model/PersonDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/pet/Pet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/pet/PetDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/java/com/example/jpa/controller/PostController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/java/com/example/jpa/model/Comment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/java/com/example/jpa/model/Post.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/java/com/example/jpa/model/PostResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/domain/src/main/java/com/lumesse/notifications/Notification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
