@@ -13,6 +13,276 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/b7993e7d-19e7-4d1e-aa95-7ef456a984cc/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Admin/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/ProductController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/ConversationController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/dto/SaveProductPreferencesRequest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/gm/GodModeController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Application/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Application/src/main/kotlin/com/marcskow/mkchatbot/MarkusChatbotCoreApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Application/src/main/kotlin/com/marcskow/mkchatbot/ProductCreatorApplicationRunner.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Application/src/main/resources/import.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Commons/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Commons/src/main/kotlin/com/marcskow/mkchatbot/commons/CommonsConfiguration.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Commons/src/main/kotlin/com/marcskow/mkchatbot/commons/model/AuditModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/ConversationService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/Conversation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/ConversationEngineService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/ConversationRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/dto/ProductPreferenceDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/Question.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/QuestionRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/QuestionService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/AttributeQuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/DefaultQuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/QuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/QuestionHandlerFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/WhatAreYourPreferencesQuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/WhatShouldDistinguishThisProductFromOthersQuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/question/engine/WhatWouldYouLikeToUseItForQuestionHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/Category.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/PossibleProductFilter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/PossibleProductParameter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/PossibleProductParameterRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/ProductParameterRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/model/Product.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/model/ProductDTO.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/model/ProductParameters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/model/ProductParametersRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Elastic/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Reindex/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/User/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/Application.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/StudentRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/Student.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/StudentRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/StudentService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/UserRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/complex/Product.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-elasticsearch/build.gradle">
           <value>
             <set />

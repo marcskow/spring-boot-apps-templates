@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="BootstrapJava:test" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" external.system.id="GRADLE" external.system.module.group="com.marcskow.spring" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" />
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration />
@@ -12,7 +13,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output-test url="file://$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger/src/test/java" isTestSource="true" />
@@ -166,7 +167,7 @@
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.11" level="project" />
     <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="com.marcskow.spring.BootstrapJava.main" />
+  <component name="TestModuleProperties" production-module="BootstrapJava.main" />
   <component name="sonarModuleSettings">
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
