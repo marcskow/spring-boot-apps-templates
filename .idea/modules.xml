@@ -5,13 +5,24 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-apps-templates.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-apps-templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-audit-swagger.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-audit-swagger.BootstrapJava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-audit-swagger.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-audit-swagger.BootstrapJava.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" />

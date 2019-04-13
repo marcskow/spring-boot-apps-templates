@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="BootstrapJava" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" external.system.id="GRADLE" external.system.module.group="com.marcskow.spring" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" />
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.marcskow.spring" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId="BootstrapJava" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-bootstrap-java-audit-swagger">

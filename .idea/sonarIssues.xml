@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -193,6 +198,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/gm/GodModeService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductService.kt">
           <value>
             <set />
@@ -238,6 +248,206 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/build/generated/source/kapt/main/com/marcskow/complex/criteria/api/person/model/Person_.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/Application.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/BootstrapComplexCriteriaApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/GodModeController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/api/PersonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/api/PersonController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/audit/Audit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/common/Page.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/common/ResultPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/Category.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/PossibleProductParameter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/Product.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/ProductParameters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/Provider.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/Range.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/SubcategoryProductFilter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/entities/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonNotFound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonNotFound.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonService2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/PersonServiceJoin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/Pet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/model/Person.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/model/PersonDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/person/model/PersonDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/Pet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/Pet.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/PetAttribute.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/PetAttributeRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/PetDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/PetDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/kotlin/com/marcskow/complex/criteria/api/pet/PetRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-complex-criteria-api/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/build.gradle">
           <value>
             <set />
@@ -279,6 +489,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/kotlin/com/marcskow/criteria/api/entities/complex/Product.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-criteria-api/src/main/resources/application.properties">
           <value>
             <set />
           </value>

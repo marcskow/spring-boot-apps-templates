@@ -1,0 +1,49 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.3.21'
+    id 'org.jetbrains.kotlin.plugin.spring' version '1.3.21'
+    id 'org.jetbrains.kotlin.plugin.jpa' version '1.3.21'
+    id 'org.springframework.boot' version '2.1.1.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.6.RELEASE'
+    id "org.jetbrains.kotlin.plugin.allopen" version "1.3.21"
+    id "org.jetbrains.kotlin.kapt" version "1.3.21"
+}
+
+group 'com.marcskow'
+version '1.0-SNAPSHOT'
+
+allOpen {
+    annotation("org.springframework.boot.autoconfigure.SpringBootApplication")
+    annotation("org.springframework.context.annotation.Configuration")
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    kapt group: 'org.hibernate', name: 'hibernate-jpamodelgen', version: '5.4.2.Final'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+
+    implementation group: 'com.fasterxml.jackson.module', name: 'jackson-module-kotlin'
+    implementation group: 'com.fasterxml.jackson.module', name: 'jackson-modules-java8', version: '2.9.8', ext: 'pom'
+
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-data-jpa'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-validation'
+
+//    runtimeOnly 'com.h2database:h2'
+    runtimeOnly 'org.postgresql:postgresql'
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+
+bootJar {
+    mainClassName = 'com.marcskow.complex.criteria.api'
+}
