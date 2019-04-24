@@ -503,6 +503,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../exercises/PriorityList/src/priority/PriorityList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/PriorityList/src/priority/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/build.gradle">
           <value>
             <set />
@@ -934,6 +944,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/java/com/marcskow/spring/heroku/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/java/com/marcskow/spring/heroku/SpringBootstrapHerokuApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/resources/application.properties">
           <value>
             <set />
           </value>

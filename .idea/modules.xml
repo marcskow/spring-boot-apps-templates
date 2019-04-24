@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" filepath="$PROJECT_DIR$/spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" />
     </modules>
   </component>
 </project>

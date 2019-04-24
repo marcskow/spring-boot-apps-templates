@@ -3,6 +3,12 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-bootstrap-maven-heroku" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="BootstrapJava.main" target="11" />
@@ -31,8 +37,14 @@
       <module name="spring-bootstrap-java-crud.BootstrapJava.test" target="11" />
       <module name="spring-bootstrap-java-crud.com.marcskow.spring.BootstrapJava.main" target="11" />
       <module name="spring-bootstrap-java-crud.com.marcskow.spring.BootstrapJava.test" target="11" />
+      <module name="spring-bootstrap-maven-heroku" target="1.8" />
       <module name="SpringAuditSwagger.main" target="11" />
       <module name="SpringAuditSwagger.test" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-bootstrap-maven-heroku" options="-parameters" />
+    </option>
   </component>
 </project>
