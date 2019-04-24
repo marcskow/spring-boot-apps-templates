@@ -878,6 +878,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/Procfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/build.gradle">
           <value>
             <set />
@@ -944,6 +959,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/README.md">
           <value>
             <set />
           </value>

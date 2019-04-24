@@ -28,6 +28,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" />
