@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.sql">
           <value>
             <set />
           </value>
         </entry>
         <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/1a9b0fae-2139-4cc3-94ff-ef2b9c1ab0e3/console_1.sql">
           <value>
             <set />
           </value>
@@ -238,12 +248,312 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/api/GodModeController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/api/ScriptController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/scripts/GodModeService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/scripts/ScriptController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/scripts/ScriptService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/User/build.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Chatbot/CoreServer/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PriorityList/src/random/MillerRabin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/ProductController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/dto/ProductResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/dto/ProductsRequestDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/dto/ProductsResponseDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/ConversationController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Application/src/main/resources/import.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/ConversationService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/AdvisorEngine.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/ConversationStateValidator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/CounterEngine.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/CounterEngineTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/DescriptionPredictionEngine.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/PersonalityPredictionEngine.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/PopularityEngine.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/Punctation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/model/PersonalityKeywords.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/model/ProductPopularity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/advisor/model/ProductToKeywords.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/Conversation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/ConversationRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/history/FactMessageService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Conversation/src/test/kotlin/com/marcskow/mkchatbot/conversation/advisor/CounterEngineTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/CategoryRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductKeywordService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/dto/ProductDTO.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/model/Product.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Scripts/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/scripts/ScriptController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Scripts/src/main/kotlin/com/marcskow/mkchatbot/scripts/ScriptService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/User/src/main/kotlin/com/marcskow/mkchatbot/core/dto/PersonalityDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/User/src/main/kotlin/com/marcskow/mkchatbot/core/personality/PersonalityKeywordService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/User/src/main/kotlin/com/marcskow/mkchatbot/core/personality/PersonalityService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/marceldb_public_product_best_personalities.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/marceldb_public_product_parameters.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/marceldb_public_products.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/marceldb_public_products_parameters.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/com/marcskow/random/Console.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/com/marcskow/random/JavaRandomNumberGeneratorWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/com/marcskow/random/LCG.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/com/marcskow/random/MillerRabin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/com/marcskow/random/RandomNumberGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/random/MillerRabin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/main/java/random/RandomNumberGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exercises/RandomNumberGenerator/src/test/java/com/marcskow/random/MillerRabinTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-bootstrap/pom.xml">
           <value>
             <set />
           </value>
@@ -563,7 +873,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/BootstrapJavaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/SpringBootAuditSwager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/src/main/java/com/marcskow/spring/bootstrap/java/SpringBootAuditSwagger.java">
           <value>
             <set />
           </value>

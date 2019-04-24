@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'BootstrapJava'
+rootProject.name = 'SpringAuditSwagger'
