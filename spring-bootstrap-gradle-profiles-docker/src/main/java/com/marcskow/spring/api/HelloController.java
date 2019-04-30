@@ -1,4 +1,4 @@
-package com.marcskow.spring.heroku;
+package com.marcskow.spring.api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

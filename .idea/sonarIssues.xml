@@ -303,6 +303,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../TemplatesGithub/HappyPaths/DockerHappyPath.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/admin/ProductController.kt">
           <value>
             <set />
@@ -893,6 +898,136 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/src/main/java/com/marcskow/spring/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/src/main/java/com/marcskow/spring/heroku/profile/HerokuProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/src/main/java/com/marcskow/spring/heroku/profile/LocalProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-heroku/src/main/java/com/marcskow/spring/profile/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/DevProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/ProdProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/SpringBootstrapApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/api/PersonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/app/SpringBootstrapApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/person/PersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/person/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/person/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/person/model/PersonDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/DevProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/ProdProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/profile/DevProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/profile/HerokuProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/profile/LocalProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/java/com/marcskow/spring/profile/profile/ProdProfileController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/build.gradle">
           <value>
             <set />
@@ -973,6 +1108,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/java/com/marcskow/spring/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/java/com/marcskow/spring/heroku/HelloController.java">
           <value>
             <set />
@@ -983,7 +1123,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/java/com/marcskow/spring/profile/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-maven-heroku/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/java/com/marcskow/cloud/config/CloudDataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/java/com/marcskow/profile/LocalHelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/resources/application-local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/resources/application-mysql.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/resources/spring-cloud-bootstrap.properties">
           <value>
             <set />
           </value>
