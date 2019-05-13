@@ -1108,6 +1108,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DataReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/test/java/com/marcskow/spring/bootstrap/tests/unit/DataReaderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-java-audit-swagger/build.gradle">
           <value>
             <set />

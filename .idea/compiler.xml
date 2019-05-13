@@ -38,6 +38,8 @@
       <module name="spring-bootstrap-gradle-hibernate-advanced.test" target="11" />
       <module name="spring-bootstrap-gradle-profiles-docker.main" target="1.8" />
       <module name="spring-bootstrap-gradle-profiles-docker.test" target="1.8" />
+      <module name="spring-bootstrap-gradle-tests.main" target="11" />
+      <module name="spring-bootstrap-gradle-tests.test" target="11" />
       <module name="spring-bootstrap-java-audit-swagger.BootstrapJava.main" target="11" />
       <module name="spring-bootstrap-java-audit-swagger.BootstrapJava.test" target="11" />
       <module name="spring-bootstrap-java-crud.BootstrapJava.main" target="11" />

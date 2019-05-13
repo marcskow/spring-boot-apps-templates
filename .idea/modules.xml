@@ -37,6 +37,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" />
