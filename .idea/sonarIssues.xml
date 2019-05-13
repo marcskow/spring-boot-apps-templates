@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/1a9b0fae-2139-4cc3-94ff-ef2b9c1ab0e3/console_1.sql">
           <value>
             <set />
@@ -918,6 +923,81 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/BookDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/BookInhRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/BookRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/InhBlogPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/InhBook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/InhBookRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/inheritance/Publication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/web/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/java/com/marcskow/web/SimpleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/test/java/com/marcskow/inheritance/BookDAOTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-advanced/src/test/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-profiles-docker/Dockerfile">
           <value>
             <set />
@@ -1138,6 +1218,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/java/com/marcskow/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/src/main/java/com/marcskow/cloud/config/CloudDataSourceConfig.java">
           <value>
             <set />
@@ -1173,6 +1258,101 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/batch1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/batchqa1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/bo1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/bo2.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/bo3.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/bo5.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/dev/fo1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/cloudytalent/resources/config/signum/batch1.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/common-camel/open-jpa/open-jpa-tenant/src/main/java/com/open/jpa/tenant/repository/ValueMappingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/main/java/com/open/docusign/service/webhook/EnvelopeEventHookStatusUpdater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/main/resources/liquibase/tenant/sql/value_mapping.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/main/resources/mapper/LanguageMapper.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/main/resources/mapper/SignersMapper.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/createEnvelopeIsMappedSuccessfully/docusignCreateEnvelopeRequest.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/signer/mixedEmailConfiguration/excpectedSigners.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/signer/mixedEmailConfiguration/tlkCreateEnvelopeRequest.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/signer/onlyCustomEmailsAreSet/excpectedSigners.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/signer/onlyDefaultEmailIsSet/excpectedSigners.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/docusign/application/src/test/resources/mapper/signer/routingNotProvided/excpectedSigners.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/java/com/example/jpa/controller/PostController.java">
           <value>
             <set />
@@ -1194,6 +1374,46 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/TalentLink/tlk-integrations/jpa-hibernate-tutorials/jpa-one-to-many-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/actions/___test___/docuSign.test.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/actions/docuSign.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/components/TextSelection/TextSelection.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/components/messageSection/MessageSection.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/components/messageSection/TemplateSelection.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/reducers/___test___/docuSign.test.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/reducers/docuSign.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/routing.jsx">
           <value>
             <set />
           </value>

@@ -31,6 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" />

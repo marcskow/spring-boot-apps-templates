@@ -34,6 +34,8 @@
       <module name="spring-bootstrap-elasticsearch.com.marcskow.spring.BootstrapJava.test" target="11" />
       <module name="spring-bootstrap-gradle-heroku.main" target="1.8" />
       <module name="spring-bootstrap-gradle-heroku.test" target="1.8" />
+      <module name="spring-bootstrap-gradle-hibernate-advanced.main" target="11" />
+      <module name="spring-bootstrap-gradle-hibernate-advanced.test" target="11" />
       <module name="spring-bootstrap-gradle-profiles-docker.main" target="1.8" />
       <module name="spring-bootstrap-gradle-profiles-docker.test" target="1.8" />
       <module name="spring-bootstrap-java-audit-swagger.BootstrapJava.main" target="11" />
