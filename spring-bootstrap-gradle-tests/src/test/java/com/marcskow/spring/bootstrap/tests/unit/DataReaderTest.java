@@ -9,7 +9,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 class DataReaderTest {
 
-    private final DataReader dataReader = new DataReader();
+    private final DateReader dataReader = new DateReader();
 
     @Test
     void readZonedDateTime() {

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationMockitoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationSpringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureCreatorAnnotationSpringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureTestConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/TestConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/actions/___test___/docuSign.test.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/reducers/___test___/docuSign.test.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/reducers/docuSign.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/language/labels.hr">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/webroot/private/caa/caa_links.cfm">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

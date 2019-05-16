@@ -18,6 +18,8 @@
       <module name="com.marcskow.complex-criteria-api.test" target="11" />
       <module name="com.marcskow.spring-bootstrap-criteria-api.main" target="11" />
       <module name="com.marcskow.spring-bootstrap-criteria-api.test" target="11" />
+      <module name="com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main" target="11" />
+      <module name="com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test" target="11" />
       <module name="com.marcskow.spring.BootstrapJava.main" target="11" />
       <module name="com.marcskow.spring.BootstrapJava.test" target="11" />
       <module name="com.marcskow.spring.SpringAuditSwagger.main" target="11" />

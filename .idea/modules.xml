@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" />

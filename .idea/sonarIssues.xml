@@ -1118,6 +1118,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/decorator/SignatureReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
           <value>
             <set />
@@ -1128,7 +1133,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/signature/NoSuchUserException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/signature/Signature.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/signature/SignatureReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DataReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DateReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-bootstrap-gradle-tests/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorTest.java">
           <value>
             <set />
           </value>
@@ -1449,6 +1489,31 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/domain/src/main/java/com/lumesse/notifications/Notification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/dto/ESignatureParticipantDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/mapper/ESignatureParticipantDtoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/service/DocusignService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/mapper/ESignatureParticipantDtoMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/rest/ESignatureRestBeanTest.java">
           <value>
             <set />
           </value>
