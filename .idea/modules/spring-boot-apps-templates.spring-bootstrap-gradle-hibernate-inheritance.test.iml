@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="spring-bootstrap-gradle-hibernate-inheritance:test" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" external.system.id="GRADLE" external.system.module.group="com.marcskow.spring.bootstrap" external.system.module.type="sourceSet" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <webroots />
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-java-parameters" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/classes/kotlin/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/classes/kotlin/main:/home/marcskow/IdeaProjects/spring-boot-apps-templates/spring-bootstrap-gradle-hibernate-inheritance/build/resources/main:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.30/b5aa87d4a75c9635915e4189f687e92ce375c054/kotlin-reflect-1.3.30.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.30/9ea98e65c246d34de9af59c104ad9bdea4908ee/kotlin-stdlib-1.3.30.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.30/989a125fdb6e4d0d75a016032e03e1e3b57a13d/kotlin-stdlib-common-1.3.30.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-elasticsearch/2.1.3.RELEASE/dc5131c448e2929c4784e9fcd3634b863288006b/spring-boot-starter-data-elasticsearch-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/3220e72c77dfd71988cab7e03748fe22f54926c6/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.1.3.RELEASE/e187a835eaf992bf253d0bd1b43e35ad0d8e5919/spring-boot-starter-validation-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/2.1.3.RELEASE/e65a0538c3075a0910e7273a9dbedb189761b1ae/spring-boot-starter-web-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/2.23.0/51ce6ac5823b17c6c92a3fdf40e7bc7033f51b97/mockito-junit-jupiter-2.23.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/3602b523ffae9dabc04c329d73ab39ab04b3cbe2/junit-jupiter-api-5.3.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/2.1.3.RELEASE/79ccc36b5cf5ee197e3bde7fc5ed91fa6bed594a/spring-boot-starter-test-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/2.1.3.RELEASE/31a712440dfa221f087357bbc1142fb1eb251ca6/spring-boot-starter-aop-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/2.1.3.RELEASE/d3dda1111d0061659882220bba769b9f67e5a94e/spring-boot-starter-jdbc-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/2.1.3.RELEASE/374c3de160f59ee2de2f78f2285ecc9b593caa71/spring-boot-starter-json-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.1.3.RELEASE/bf73ada346b2956cbd10067830ac58aa55c46176/spring-boot-starter-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/3.1.5.RELEASE/ca38b5dcfa02f694aaea6ebba969cf55fcca5d46/spring-data-elasticsearch-3.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.3/e006adf5cf3cca2181d16bd640ecb80148ec0fce/javax.transaction-api-1.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.3.1/8531ad5ac454cc2deb9d4d32c40c4d7451939b5d/jaxb-api-2.3.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/f87c5c1bbfc638309824140e68dfaaeb1bb479f3/hibernate-core-5.3.7.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.5.RELEASE/968d63d6fd8bfb0bd878e71427f66351e235c73c/spring-data-jpa-2.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/5.1.5.RELEASE/3bb95e05b646ef93e2a4cf0b600924c2979fc723/spring-aspects-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.1.3.RELEASE/653f835a6da031622636379dca873be106aeddb4/spring-boot-starter-tomcat-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/9.0.16/baadc5c97260023078f521cfc0085797f7dde91b/tomcat-embed-el-9.0.16.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.14.Final/c424524aa7718c564d9199ac5892b05901cabae6/hibernate-validator-6.0.14.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.5.RELEASE/236e3bfdbdc6c86629237a74f0f11414adb4e211/spring-webmvc-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.5.RELEASE/c37c4363be4ad6c5f67e3f9f020497e2d599e325/spring-web-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.3.2/378d1d1b162426ad031522f6d51e3bf28d1631a4/junit-platform-commons-1.3.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.0.0/3ef5276905e36f4d8055fe3cb0bdcc7503ffc85d/apiguardian-api-1.0.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.1.1/efd9f971e91074491ea55b19f67b13470cf4fcdd/opentest4j-1.1.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.23.4/a35b6f8ffcfa786771eac7d7d903429e790fdf3f/mockito-core-2.23.4.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/f667520b788e87a38bcee2538fce16d3d1a484a5/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.1.3.RELEASE/3615e9ac8c032ff246d6f30fe36642333e45881d/spring-boot-test-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/765a4401ceb2dc8d40553c2075eb80a8fa35c2ae/json-path-2.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/fdac3217b804d6900fa3650f17b5cb48e620b140/assertj-core-3.11.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.0/6c9d5fe2f59da598d9aefc1cfc6528ff3cf32df3/jsonassert-1.5.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.5.RELEASE/693fac3c64b4617b7c2b207e45e93529f6594bd/spring-test-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.3.RELEASE/58e07f69638a3ca13dffe8a2b68d284af376d105/spring-boot-autoconfigure-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.3.RELEASE/92bb92cd73212cefc1e5112e3bbf1f31c154c3fd/spring-boot-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.5.RELEASE/d39299241a2c8353d83f0f0c84d3677973da7c57/spring-context-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.5.RELEASE/851578f7a47dc3ec6dce071c2688ab3987439142/spring-data-commons-2.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.1.5.RELEASE/5e6ab23bc14369b0e29881afd85ad13b79846a0e/spring-aop-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.1.5.RELEASE/2320c1442ad2d33c4bb0c289d0e48554c7c42ee7/spring-orm-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.1.5.RELEASE/67a6be20d032276a12a91fce4fe8b13ccc8c95d/spring-jdbc-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.5.RELEASE/c2d39bf1f87a7b9f74a199b3aa37ffc8be84b918/spring-tx-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.5.RELEASE/58b10c61f6bf2362909d884813c4049b657735f5/spring-beans-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.1.5.RELEASE/b728a06924560ee69307a52d100e6b156d9a4a80/spring-expression-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.5.RELEASE/aacc4555108f3da913a58114b2aebc819f58cce4/spring-core-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.6.2/b0461888cdd8d3975ea8a57df96520409cadcb6c/xmlunit-core-2.6.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.1.3.RELEASE/3ae3b090dfd65caa44e7fd12e433b68b48c24c99/spring-boot-starter-logging-2.1.3.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/transport/6.4.3/d602d85df59aa9c0b8cb639a9fd47a1b4df81ebb/transport-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.4.3/2fea9b67907d868a07c94d92f7c31b260b1095e6/elasticsearch-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-x-content/6.4.3/116290a0102d2417e93d7a2a2a27f00fb59f5a59/elasticsearch-x-content-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.23/ec62d74fe50689c28c0ff5b35d3aebcaa8b5be68/snakeyaml-1.23.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.1/9ac3dbf89dbf2ee385185dd0cd3064fe789efee0/joda-time-2.10.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.9.8/bcd02aa9195390e23747ed40bf76be869ad3a2fb/jackson-datatype-jdk8-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.9.8/28ad1bced632ba338e51c825a652f6e11a8e6eac/jackson-datatype-jsr310-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.9.8/c4eef0e6e20d60fb27af4bc4770dba7bcc3f6de6/jackson-module-parameter-names-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.8/11283f21cc480aa86c4df7a0a3243ec508372ed2/jackson-databind-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.8/f5a654e4675769c716e5b387830d19b501ca191/jackson-core-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/transport-netty4-client/6.4.3/8b9a75383605ded962af31f5abdf270fa6b38ef1/transport-netty4-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/3.2.0/6c66db1c636ee90beb4c65fe34abd8ba9396bca6/HikariCP-3.2.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.11.2/6d37bf7b046c0ce2669f26b99365a2cfa45c4c18/log4j-to-slf4j-2.11.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.25/af5364cd6679bfffb114f0dec8a157aaa283b76/jul-to-slf4j-1.7.25.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.2/d2502817521477faf0712c49a6ee2a5388787fc7/aspectjweaver-1.9.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.activation/javax.activation-api/1.2.0/85262acf3ca9816f9537ca47d5adeabaead7cb16/javax.activation-api-1.2.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.0.4.Final/965a18fdf939ee75e41f7918532d37b3a8350535/hibernate-commons-annotations-5.0.4.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.2.Final/3789d00e859632e6c6206adc0c71625559e6e3b0/jboss-logging-3.3.2.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/25665ac8c0b62f50e6488173233239120fc52c96/javax.persistence-api-2.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.23.1-GA/c072c13dcb7f705471c40bafb1536171df850ab2/javassist-3.23.1-GA.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.9.10/211a2b4d3df1eeef2a6cacf78d74a1f725e7a840/byte-buddy-1.9.10.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.0.5.Final/7060f67764565b9ee9d467e3ed0cb8a9c601b23a/jandex-2.0.5.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.4.0/291658ac2ce2476256c7115943652c0accb5c857/classmate-1.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.dom4j/dom4j/2.1.1/3dce5dbb3571aa820c677fadd8349bfa8f00c199/dom4j-2.1.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/cb855558e6271b1b32e716d24cb85c7f583ce09e/validation-api-2.0.1.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/9.0.16/f5eac487823c68f5d20742a99df1d94350c24d21/tomcat-embed-websocket-9.0.16.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.16/d7069e3d0f760035b26b68b7b6af5eaa0c1862f/tomcat-embed-core-9.0.16.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.9.10/9674aba5ee793e54b864952b001166848da0f26b/byte-buddy-agent-1.9.10.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.5.RELEASE/5cbd44d11a031c64c788edf1f99706b31c434469/spring-jcl-5.1.5.RELEASE.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/reindex-client/6.4.3/44d721eafce242412701f77b61ed0b1d7dbd63ce/reindex-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/lang-mustache-client/6.4.3/f68be9968715f59e115b319a48f0d31632e7e592/lang-mustache-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/percolator-client/6.4.3/1cfce7b99c49a1f3279438a1ee7f8c9793830025/percolator-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/parent-join-client/6.4.3/cfc4bb70a632994d12dd443e61581853dab137ae/parent-join-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/rank-eval-client/6.4.3/1f6b7032b4a80c9bd1895e83c0404993f23f3392/rank-eval-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.33.Final/d4fdb13d5832a0f348e4d855c71201a2b15d560/netty-buffer-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.33.Final/600762bf6861fa62b061782debb6fcdeff1f1984/netty-codec-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.33.Final/ad557dffc0777b1b24558d6c57b77b0198dbb58d/netty-codec-http-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.33.Final/398b725cbaca8c691b74759ae6c3d69b8eeb0574/netty-common-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.33.Final/3bcc2db64f7b0ebacba552aff319b41962c2df96/netty-handler-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.33.Final/f3873f5ed509b5c169fb7cbaf34b694d8c748926/netty-resolver-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.33.Final/b9f9af72dfcd8464c16169670d52c6dc5fe65897/netty-transport-4.1.33.Final.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.11.2/f5e9a2ffca496057d6891a3de65128efc636e26e/log4j-api-2.11.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-cli/6.4.3/da7ab64b954128478eb7e2866f22f80f3ee05f69/elasticsearch-cli-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-core/6.4.3/3c304f378f4ee78049158d97da72231f19b8397f/elasticsearch-core-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-secure-sm/6.4.3/d260abffc34e7a13655ac7e8f25d3f4a37edadcd/elasticsearch-secure-sm-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/7.4.0/730d9ac80436c8cbc0b2a8a749259be536b97316/lucene-core-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-common/7.4.0/e1afb580df500626a1c695e0fc9a7e8a8f58bcac/lucene-analyzers-common-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-backward-codecs/7.4.0/a6ad941ef1fdad48673ed511631b7e48a9456bf7/lucene-backward-codecs-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-grouping/7.4.0/56f99858a4421a517b52da36a222debcccab80c6/lucene-grouping-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/7.4.0/5266b45d7f049662817d739881765904621876d0/lucene-highlighter-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-join/7.4.0/c77154d18c4944ceb6ce0741060632f57d623fdc/lucene-join-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-memory/7.4.0/186ff981feec1bdbf1a6236e786ec171b5fbe3e0/lucene-memory-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/7.4.0/bf844bb6f6d84da19e8c79ce5fbb4cf6d00f2611/lucene-misc-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-queries/7.4.0/229a50e6d9d4db076f671c230d493000c6e2972c/lucene-queries-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-queryparser/7.4.0/8e58add0d0c39df97d07c8e343041989bf4b3a3f/lucene-queryparser-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-sandbox/7.4.0/1692604fa06a945d1ee19939022ef1a912235db3/lucene-sandbox-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial/7.4.0/847d2f897961124e2fc7d5e55d8309635bb026bc/lucene-spatial-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial-extras/7.4.0/586892eefc0546643d7f5d7f83659c7db0d534ff/lucene-spatial-extras-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial3d/7.4.0/32cd2854f39ff453a5d128ce40e11eea4168abbf/lucene-spatial3d-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-suggest/7.4.0/cdc1a512032f8b23dd4b1add0f5cd06325addc3/lucene-suggest-7.4.0.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.carrotsearch/hppc/0.7.1/8b5057f74ea378c0150a1860874a3ebdcb713767/hppc-0.7.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.tdunning/t-digest/3.2/2ab94758b0276a8a26102adf8d528cf6d0567b9a/t-digest-3.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.9/e4631ce165eb400edecfa32e03d3f1be53dee754/HdrHistogram-2.1.9.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch/jna/4.5.1/da10908ae23dc59b19dc258e63aea1c44621dc3a/jna-4.5.1.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/elasticsearch-rest-client/6.4.3/5c24325430971ba2fa4769eb446f026b7680d5e7/elasticsearch-rest-client-6.4.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.github.spullara.mustache.java/compiler/0.9.3/2815e016c63bec4f18704ea4f5489106a5b01a99/compiler-0.9.3.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-smile/2.9.8/dbb47a052ac2b249ae004ce32e1e0c8bd8ee526c/jackson-dataformat-smile-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.8/a1c807329eb0c75976aeb5961a506b3516ffeae3/jackson-dataformat-yaml-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.9.8/dc290bb8be6ad98aa20e8342f92aaa88f7b5bab2/jackson-dataformat-cbor-2.9.8.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.2/98cafc6081d5632b61be2c9e60650b64ddbc637c/jopt-simple-5.0.2.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.7/dda059f4908e1b548b7ba68d81a3b05897f27cb0/httpclient-4.5.7.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.11/de748cf874e4e193b42eceea9fe5574fabb9d4df/httpcore-4.4.11.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.4/f3a3240681faae3fa46b573a4c7e50cec9db0d86/httpasyncclient-4.1.4.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.11/7d0a97d01d39cff9aa3e6db81f21fddb2435f4e6/httpcore-nio-4.4.11.jar:/home/marcskow/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="spring-bootstrap-gradle-hibernate-inheritance" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/classes/kotlin/main" />
+              <option value="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/tmp/kapt3/classes/main" />
+              <option value="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/classes/java/main" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.boot.autoconfigure.SpringBootApplication" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.context.annotation.Configuration" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=com.marcskow.spring.hibernate.inheritance.message.Open" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.stereotype.Component" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.transaction.annotation.Transactional" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.scheduling.annotation.Async" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.cache.annotation.Cacheable" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.boot.test.context.SpringBootTest" />
+              <option value="plugin:org.jetbrains.kotlin.allopen:annotation=org.springframework.validation.annotation.Validated" />
+              <option value="plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.Entity" />
+              <option value="plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.Embeddable" />
+              <option value="plugin:org.jetbrains.kotlin.noarg:annotation=javax.persistence.MappedSuperclass" />
+              <option value="plugin:org.jetbrains.kotlin.noarg:invokeInitializers=false" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$KOTLIN_BUNDLED$/lib/allopen-compiler-plugin.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/noarg-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/generated/source/kapt/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/generated/source/kapt/test" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/generated/source/kaptKotlin/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/generated/source/kaptKotlin/test" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-apps-templates.spring-bootstrap-gradle-hibernate-inheritance.main" />
+    <orderEntry type="module-library">
+      <library name="Gradle: kaptGeneratedClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance/build/tmp/kapt3/classes/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-elasticsearch:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-validation:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-junit-jupiter:2.23.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-aop:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.h2database:h2:1.4.197" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-json:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-elasticsearch:3.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: javax.transaction:javax.transaction-api:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: javax.xml.bind:jaxb-api:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate:hibernate-core:5.3.7.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aspects:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:9.0.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.validator:hibernate-validator:6.0.14.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apiguardian:apiguardian-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:2.23.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.skyscreamer:jsonassert:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-test:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-commons:2.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-orm:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.xmlunit:xmlunit-core:2.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: javax.annotation:javax.annotation-api:1.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.client:transport:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch-x-content:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.23" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:transport-netty4-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.zaxxer:HikariCP:3.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jul-to-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.aspectj:aspectjweaver:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: javax.activation:javax.activation-api:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.common:hibernate-commons-annotations:5.0.4.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.logging:jboss-logging:3.3.2.Final" level="project" />
+    <orderEntry type="library" name="Gradle: javax.persistence:javax.persistence-api:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.javassist:javassist:3.23.1-GA" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss:jandex:2.0.5.Final" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml:classmate:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.dom4j:dom4j:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: javax.validation:validation-api:2.0.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:9.0.16" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.9.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:json-smart:2.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:reindex-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:lang-mustache-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:percolator-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:parent-join-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.plugin:rank-eval-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.33.Final" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:accessors-smart:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch-cli:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch-core:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch-secure-sm:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-core:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-analyzers-common:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-backward-codecs:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-grouping:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-highlighter:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-join:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-memory:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-misc:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queries:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queryparser:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-sandbox:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial-extras:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial3d:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-suggest:7.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.carrotsearch:hppc:0.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.tdunning:t-digest:3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch:jna:4.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.client:elasticsearch-rest-client:6.4.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.spullara.mustache.java:compiler:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:5.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.11" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="spring-bootstrap-gradle-hibernate-inheritance.main" />
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>

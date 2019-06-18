@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="complex-criteria-api" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api" external.system.id="GRADLE" external.system.module.group="com.marcskow" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.marcskow" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="complex-criteria-api" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api">
@@ -8,14 +8,11 @@
       <excludeFolder url="file://$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../spring-bootstrap-complex-criteria-api/out" />
     </content>
-    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="sonarModuleSettings">
-    <option name="alternativeWorkingDirPath" value="" />
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
-    <option name="useAlternativeWorkingDir" value="false" />
-    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
   </component>
 </module>

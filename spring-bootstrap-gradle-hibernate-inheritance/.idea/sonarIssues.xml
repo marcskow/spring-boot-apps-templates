@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/dde601c3-e30f-4b42-b20e-0b7d1e5ec8ad/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.30/9c981bc2a33066176e605b58a84170b8116e9d8c/kotlin-stdlib-common-1.3.30-sources.jar!/generated/_Collections.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/avatar/avatar.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/avatar/avatar.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/avatar/avatar.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/conversation/answer.model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/conversation/conversation.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/conversation/conversation.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/conversation/conversation.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/core/conversation.model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/core/conversation.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/core/step.handler.factory.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/filter-message/filter-message.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/filter-message/filter-message.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/filter/filter.model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/filter/filter.service.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/filter/preferences.model.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/category.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/filter-confirmed.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/filter.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/goodbye.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/step.handler.factory.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/subcategory.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/handler/welcome.handler.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/option-message/option-message.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/option-message/option-message.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/option-message/option-message.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/text-message/text-message.component.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/text-message/text-message.component.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/app/text-message/text-message.component.ts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/ChatbotClient/src/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/ConversationController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/HelperController.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Api/src/main/kotlin/com/marcskow/mkchatbot/api/chat/MessageBody.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Application/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Application/src/main/kotlin/com/marcskow/mkchatbot/MarkusChatbotCoreApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Application/src/main/kotlin/com/marcskow/mkchatbot/MessageCreatorApplicationRunner.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Application/src/main/resources/import.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Commons/src/main/kotlin/com/marcskow/mkchatbot/commons/jpa/MkJpaRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/ConversationService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/category/CategoryHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/conversation/ConversationEngineService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/event/CategoryEventListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/event/CategoryEventListener2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/history/FactMessage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/CategoryEventListener2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/Message.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/MessageDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/MessageRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/MessageService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/MessageServiceFacade.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Conversation/src/main/kotlin/com/marcskow/mkchatbot/conversation/message/MessageSuccess.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/CategoryRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/category/CategoryService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Ecommerce/src/main/kotlin/com/marcskow/mkchatbot/ecommerce/product/ProductService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/Event/src/main/kotlin/com/marcskow/mkchatbot/event/listener/CategoryEventListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../chatbot-server-kotlin/CoreServer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-bootstrap-complex-criteria-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Application.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Message.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageRunner.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageServiceFacade.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Open.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/OpenEntity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/com/marcskow/spring/hibernate/inheritance/message/AnyTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageServiceTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/import.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-bootstrap-gradle-tests/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-bootstrap-gradle-tests/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/actions/docuSign.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/docuSignConfig.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink-revamp/src/app/page/docuSign/reducers/docuSign.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/caller/OpenDocusignIntegrationCaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/dto/error/DocusignApiErrorResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/DocusignRestBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/DocusignApiErrorMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/DocusignApiErrorMessageEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/DocusignApiException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/DocusignTranslationKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/OpenDocusignApiErrorMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/rest/exception/PredefinedDocusignApiErrorMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/service/DocusignService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/service/document/CandidateDocumentsBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/validator/DocusignEmailLengthValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/validator/DocusignEnvelopeValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/main/java/com/lumesse/esignature/validator/ESignatureInitDocumentPackageValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/rest/DocusignRestBeanTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/service/document/CandidateDocumentsBeanTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/validator/DocusignEmailLengthValidatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/e-signature/src/test/java/com/lumesse/esignature/validator/DocusignEnvelopeLengthValidatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/new-ui/new-ui-core/src/main/java/com/lumesse/newui/service/csp/DirectiveName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/Java/new-ui/new-ui-core/src/test/java/com/lumesse/newui/service/csp/ContentSecurityServiceBeanTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/language/labels.en">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/webroot/js/header_candidatepage.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/webroot/private/caa/caa_links.cfm">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

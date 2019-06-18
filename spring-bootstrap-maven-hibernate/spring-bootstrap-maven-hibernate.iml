@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../spring-bootstrap-gradle-hibernate-advanced" rootProjectPath="$MODULE_DIR$/../spring-bootstrap-gradle-hibernate-advanced" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../spring-bootstrap-gradle-hibernate-inheritance" rootProjectPath="$MODULE_DIR$/../spring-bootstrap-gradle-hibernate-inheritance" />
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
       <configuration />
@@ -129,7 +129,10 @@
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
   </component>
   <component name="sonarModuleSettings">
+    <option name="alternativeWorkingDirPath" value="" />
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
   </component>
 </module>

@@ -1,5 +1,10 @@
 package com.marcskow.spring.bootstrap.tests.h2;
 
+import com.marcskow.spring.bootstrap.tests.mocked.Config;
+import com.marcskow.spring.bootstrap.tests.mocked.ConfigDto;
+import com.marcskow.spring.bootstrap.tests.mocked.ConfigRepository;
+import com.marcskow.spring.bootstrap.tests.mocked.Department;
+import com.marcskow.spring.bootstrap.tests.mocked.DepartmentRepository;
 import com.marcskow.spring.bootstrap.tests.mocked.User;
 import com.marcskow.spring.bootstrap.tests.mocked.UserRepository;
 import org.junit.jupiter.api.Test;
@@ -14,6 +19,12 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @DataJpaTest
 class H2IntegrationJpaTest {
+
+    @Autowired
+    private DepartmentRepository departmentRepository;
+
+    @Autowired
+    private ConfigRepository configRepository;
 
     @Autowired
     private UserRepository userRepository;
@@ -109,7 +120,7 @@ class H2IntegrationJpaTest {
     }
 
     @Test
-    void selectOnlySomeColumnsTest() {
+    void selectOnlyOneColumnTest() {
         // given
         User user = new User();
         user.setName("Marcin Skowron");
@@ -121,5 +132,25 @@ class H2IntegrationJpaTest {
 
         // then
         assertThat(q.getSingleResult()).isEqualTo("Marcin Skowron");
+    }
+
+    @Test
+    void selectOnlySomeColumnsTest() {
+        // given
+        Department department = new Department();
+        department.setName("Dep1");
+        departmentRepository.save(department);
+
+        Config config = new Config();
+        config.setName("Conf1");
+        config.setDepartment(department);
+        configRepository.save(config);
+
+        // when
+        TypedQuery<ConfigDto> q = em.createNamedQuery(Config.Q.findAllConfigs, ConfigDto.class);
+
+        // then
+        assertThat(q.getResultList()).hasSize(1);
+        assertThat(q.getResultList().get(0).getDepartmentName()).isEqualTo("Dep1");
     }
 }

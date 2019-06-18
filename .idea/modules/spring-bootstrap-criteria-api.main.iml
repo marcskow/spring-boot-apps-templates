@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="spring-bootstrap-criteria-api:main" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-criteria-api" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-criteria-api" external.system.id="GRADLE" external.system.module.group="com.marcskow" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-criteria-api" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" />
   <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <webroots />
+      </configuration>
+    </facet>
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="JVM 1.8" useProjectSettings="false">
         <compilerSettings>
@@ -46,16 +54,8 @@
         </compilerArguments>
       </configuration>
     </facet>
-    <facet type="Spring" name="Spring">
-      <configuration />
-    </facet>
-    <facet type="web" name="Web">
-      <configuration>
-        <webroots />
-      </configuration>
-    </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../spring-bootstrap-criteria-api/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-bootstrap-criteria-api/build/generated/source/kapt/main">

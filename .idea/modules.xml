@@ -8,43 +8,33 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAuditSwagger.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.complex-criteria-api.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring-bootstrap-criteria-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.SpringAuditSwagger.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/complex-criteria-api.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-apps-templates.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-apps-templates.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-gradle-hibernate-inheritance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-gradle-hibernate-inheritance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-gradle-hibernate-inheritance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-apps-templates.spring-bootstrap-gradle-hibernate-inheritance.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-criteria-api.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-heroku.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" filepath="$PROJECT_DIR$/spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-bootstrap-maven-hibernate/spring-bootstrap-maven-hibernate.iml" filepath="$PROJECT_DIR$/spring-bootstrap-maven-hibernate/spring-bootstrap-maven-hibernate.iml" />
     </modules>

@@ -3,72 +3,57 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="/Dummy.txt">
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/dde601c3-e30f-4b42-b20e-0b7d1e5ec8ad/console.sql">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../ChatbotMarcel/ChatbotMarcelServer/Commons/src/main/kotlin/com/marcskow/mkchatbot/commons/jpa/MkJpaRepository.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/build.gradle">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/api/PersonController.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/common/Page.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/common/PageResults.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/common/ResultPage.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/Person.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonNotFound.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonRepository.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/PersonService.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/model/Person.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/person/model/PersonDto.java">
+        <entry key="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/java/api/WatchController.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/enboarder-camel/application/src/main/java/com/open/enboarder/app/applicationlevel/rest/EnboarderIntegrationApiRouteBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk-integrations/enboarder-camel/application/src/main/java/com/open/enboarder/app/tenantlevel/EnboarderIntegrationAppCtx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/DataBase/Patch/Structure/01_create_table.order">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/DataBase/Patch/Structure/scripts/crt_TLK-101014_PushNotificationPreferences_001.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/DataBase/Patch/Structure/scripts/crt_TLK-TUNUMER_NAZWA_001.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/dba/js/onboarding.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/dba/js/onboarding_new.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/TalentLink/tlk/talentlink/coldfusion/src/main/resources/20000/dba/service_onboarding_connector.cfm">
           <value>
             <set />
           </value>

@@ -5,8 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.marcskow.spring.BootstrapJava.main" target="11" />
-      <module name="com.marcskow.spring.BootstrapJava.test" target="11" />
+      <module name="BootstrapJava.main" target="11" />
+      <module name="BootstrapJava.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

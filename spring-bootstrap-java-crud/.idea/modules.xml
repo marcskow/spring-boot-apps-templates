@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootstrapJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BootstrapJava.test.iml" />
     </modules>
   </component>
 </project>

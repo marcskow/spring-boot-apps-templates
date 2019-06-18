@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-inheritance.iml" filepath="$PROJECT_DIR$/spring-bootstrap-gradle-hibernate-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" />
+    </modules>
+  </component>
+</project>

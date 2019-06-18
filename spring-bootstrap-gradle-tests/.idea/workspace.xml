@@ -1,26 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80872c99-ca68-4129-82e1-5e938705cc9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/signature/NoSuchUserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/signature/Signature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationMockitoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureCreatorAnnotationSpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureTestConfiguration.java" afterDir="false" />
+    <list default="true" id="51187628-11a2-42ca-9ff7-4f229b594340" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.BootstrapJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.spring-bootstrap-gradle-hibernate-inheritance.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/.idea/modules/spring-bootstrap-gradle-hibernate-inheritance.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Message.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/kotlin/com/marcskow/spring/hibernate/inheritance/message/Open.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/test/kotlin/com/marcskow/spring/hibernate/inheritance/message/MessageServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/test/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-inheritance/src/test/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/NameOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/query/SpringDataQueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/BootstrapJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/BootstrapJava.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/BootstrapJava.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/src/main/java/com/marcskow/spring/bootstrap/java/api/WatchController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/BootstrapJava.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/SpringAuditSwagger.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.complex-criteria-api.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.complex-criteria-api.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring-bootstrap-criteria-api.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring-bootstrap-criteria-api.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.SpringAuditSwagger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.SpringAuditSwagger.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.SpringAuditSwagger.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/com.marcskow.spring.bootstrap.tests.spring-bootstrap-gradle-tests.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/complex-criteria-api.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-boot-apps-templates.spring-bootstrap-java-crud.BootstrapJava.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-criteria-api.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-elasticsearch.BootstrapJava.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-heroku.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-advanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-profiles-docker.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-gradle-tests.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-java-crud.BootstrapJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-java-crud.BootstrapJava.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules/spring-bootstrap-java-crud.BootstrapJava.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DateReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/unit/DataReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/unit/DataReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/spring-boot-apps-templates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/spring-boot-apps-templates.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_carrotsearch_hppc_0_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_github_spullara_mustache_java_compiler_0_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_h2database_h2_1_4_197.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_tdunning_t_digest_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_codec_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_codec_http_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_common_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_handler_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__io_netty_netty_transport_4_1_33_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__joda_time_joda_time_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__net_sf_jopt_simple_jopt_simple_5_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_nio_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_analyzers_common_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_backward_codecs_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_core_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_grouping_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_highlighter_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_join_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_memory_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_misc_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_queries_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_queryparser_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_sandbox_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial3d_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial_extras_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_lucene_lucene_suggest_7_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_client_elasticsearch_rest_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_client_transport_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_cli_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_core_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_secure_sm_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_x_content_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_jna_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_lang_mustache_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_parent_join_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_percolator_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_rank_eval_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_reindex_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_elasticsearch_plugin_transport_netty4_client_6_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_javassist_javassist_3_23_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_data_spring_data_elasticsearch_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_aspects_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_context_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_core_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_orm_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_test_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_tx_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_web_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/modules/spring-bootstrap-gradle-hibernate-advanced.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-gradle-hibernate-advanced/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/modules/SpringAuditSwagger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/modules/SpringAuditSwagger.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/modules/SpringAuditSwagger.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/sonarIssues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-audit-swagger/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/com.marcskow.spring.BootstrapJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/com.marcskow.spring.BootstrapJava.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/modules/com.marcskow.spring.BootstrapJava.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-java-crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-java-crud/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-maven-heroku/spring-bootstrap-maven-heroku.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-bootstrap-maven-hibernate/spring-bootstrap-maven-hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-bootstrap-maven-hibernate/spring-bootstrap-maven-hibernate.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,20 +264,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -57,96 +276,26 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureCreatorAnnotationSpringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="92" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#46#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.5.RELEASE/3039db3b3041913b57092ce7fa8bb43ca1d5b214/spring-data-jpa-2.1.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/query/JpaQueryFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.5.RELEASE/3039db3b3041913b57092ce7fa8bb43ca1d5b214/spring-data-jpa-2.1.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/query/JpaQueryCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="191" column="30" lean-forward="true" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/criteria/CriteriaQuery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-975">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+            <state relative-caret-position="534">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
               <folding>
-                <element signature="e#967#997#0" expanded="true" />
                 <element signature="e#0#20#1" expanded="true" />
                 <element signature="e#0#20#1" expanded="true" />
                 <element signature="e#0#41#1" expanded="true" />
-                <element signature="e#0#41#1" expanded="true" />
+                <element signature="e#0#38#1" expanded="true" />
                 <element signature="e#0#46#1" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/TypedQuery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/EntityManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="558" column="17" selection-start-line="558" selection-start-column="17" selection-end-line="558" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -154,8 +303,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="442">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding>
                 <element signature="e#0#41#1" expanded="true" />
               </folding>
@@ -163,20 +312,63 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="50" selection-start-column="8" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/DepartmentRepository.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/signature/Signature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>profile</find>
-      <find>createtyp</find>
-      <find>select(</find>
+      <find>@Id</find>
+      <find>Config</find>
+      <find>String</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -185,177 +377,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationMockitoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationSpringTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/TestConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/SignatureTestConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2Configuration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureTestConfiguration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureCreatorAnnotationSpringTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/DepartmentRepository.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/spring-bootstrap-gradle-tests.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/spring-bootstrap-gradle-tests.main.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_carrotsearch_hppc_0_7_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_spullara_mustache_java_compiler_0_9_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_1_4_197.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_tdunning_t_digest_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_3_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_common_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_4_1_33_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_javax_activation_api_1_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_persistence_javax_persistence_api_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_transaction_javax_transaction_api_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_3_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_10_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_jopt_simple_jopt_simple_5_0_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_7.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_nio_4_4_11.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_11_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_analyzers_common_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_backward_codecs_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_core_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_grouping_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_highlighter_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_join_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_memory_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_misc_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_queries_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_queryparser_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_sandbox_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial3d_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial_extras_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_suggest_7_4_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_dom4j_dom4j_2_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_client_elasticsearch_rest_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_client_transport_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_cli_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_core_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_secure_sm_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_x_content_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_jna_4_5_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_lang_mustache_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_parent_join_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_percolator_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_rank_eval_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_reindex_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_plugin_transport_netty4_client_6_4_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_3_7_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_23_1_GA.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_0_5_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_3_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_junit_jupiter_2_23_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_elasticsearch_3_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" />
-        <option value="$PROJECT_DIR$/.idea/sonarIssues.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Config.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2075" />
-    <option name="y" value="27" />
-    <option name="width" value="1843" />
-    <option name="height" value="789" />
+    <option name="x" value="1987" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -363,6 +398,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -418,22 +455,6 @@
               <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -460,155 +481,25 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="h2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="signature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-bootstrap-gradle-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: javax.persistence:javax.persistence-api:2.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: javax.persistence:javax.persistence-api:2.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="javax.persistence-api-2.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: javax.persistence:javax.persistence-api:2.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="javax.persistence-api-2.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="persistence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: javax.persistence:javax.persistence-api:2.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="javax.persistence-api-2.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="persistence" type="462c0819:PsiDirectoryNode" />
-              <item name="criteria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-test-2.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-test-2.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-test-2.1.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-jpa-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-jpa-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-jpa-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-bootstrap-gradle-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-data-jpa-2.1.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-              <item name="query" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.marcskow.spring.bootstrap.tests.h2" />
-      <recent name="com.marcskow.spring.bootstrap.tests.signature" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2" />
+      <recent name="com.marcskow.spring.bootstrap.tests.mocked" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -623,7 +514,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.H2IntegrationJpaTest">
+  <component name="RunManager" selected="JUnit.H2IntegrationJpaTest.selectOnlySomeColumnsTest">
     <configuration name="H2IntegrationJpaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-bootstrap-gradle-tests.test" />
       <extension name="coverage">
@@ -655,54 +546,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H2IntegrationJpaTest.selectUserByNameOrdinalParameterTypedQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-bootstrap-gradle-tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.marcskow.spring.bootstrap.tests.h2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.marcskow.spring.bootstrap.tests.h2" />
-      <option name="MAIN_CLASS_NAME" value="com.marcskow.spring.bootstrap.tests.h2.H2IntegrationJpaTest" />
-      <option name="METHOD_NAME" value="selectUserByNameOrdinalParameterTypedQueryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H2IntegrationJpaTest.selectUserByNameTypedQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-bootstrap-gradle-tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.marcskow.spring.bootstrap.tests.h2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.marcskow.spring.bootstrap.tests.h2" />
-      <option name="MAIN_CLASS_NAME" value="com.marcskow.spring.bootstrap.tests.h2.H2IntegrationJpaTest" />
-      <option name="METHOD_NAME" value="selectUserByNameTypedQueryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H2IntegrationJpaTest.selectUserNamedQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-bootstrap-gradle-tests.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.marcskow.spring.bootstrap.tests.h2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.marcskow.spring.bootstrap.tests.h2" />
-      <option name="MAIN_CLASS_NAME" value="com.marcskow.spring.bootstrap.tests.h2.H2IntegrationJpaTest" />
-      <option name="METHOD_NAME" value="selectUserNamedQueryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-bootstrap-gradle-tests.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.marcskow.spring.bootstrap.tests.Application" />
@@ -712,11 +555,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.H2IntegrationJpaTest" />
         <item itemvalue="JUnit.H2IntegrationJpaTest.selectOnlySomeColumnsTest" />
-        <item itemvalue="JUnit.H2IntegrationJpaTest.selectUserNamedQueryTest" />
-        <item itemvalue="JUnit.H2IntegrationJpaTest.selectUserByNameOrdinalParameterTypedQueryTest" />
-        <item itemvalue="JUnit.H2IntegrationJpaTest.selectUserByNameTypedQueryTest" />
+        <item itemvalue="JUnit.H2IntegrationJpaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -725,49 +565,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80872c99-ca68-4129-82e1-5e938705cc9f" name="Default Changelist" comment="" />
-      <created>1557907848111</created>
+      <changelist id="51187628-11a2-42ca-9ff7-4f229b594340" name="Default Changelist" comment="" />
+      <created>1559216248230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557907848111</updated>
-      <workItem from="1557907850668" duration="9826000" />
+      <updated>1559216248230</updated>
+      <workItem from="1559216254285" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="H2IntegrationJpaTest - 2019.05.15 at 13h 20m 46s.xml">
+    <history-entry file="H2IntegrationJpaTest - 2019.05.30 at 13h 38m 39s.xml">
       <configuration name="H2IntegrationJpaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="H2IntegrationJpaTest - 2019.05.15 at 15h 09m 37s.xml">
-      <configuration name="H2IntegrationJpaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest - 2019.05.15 at 15h 11m 58s.xml">
-      <configuration name="H2IntegrationJpaTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectUserByNameTypedQueryTest - 2019.05.15 at 15h 16m 00s.xml">
-      <configuration name="H2IntegrationJpaTest.selectUserByNameTypedQueryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectUserByNameOrdinalParameterTypedQueryTest - 2019.05.15 at 15h 18m 04s.xml">
-      <configuration name="H2IntegrationJpaTest.selectUserByNameOrdinalParameterTypedQueryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectUserNamedQueryTest - 2019.05.15 at 15h 26m 32s.xml">
-      <configuration name="H2IntegrationJpaTest.selectUserNamedQueryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectUserNamedQueryTest - 2019.05.15 at 15h 26m 48s.xml">
-      <configuration name="H2IntegrationJpaTest.selectUserNamedQueryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.15 at 15h 34m 55s.xml">
+    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.30 at 13h 47m 32s.xml">
       <configuration name="H2IntegrationJpaTest.selectOnlySomeColumnsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.15 at 15h 39m 00s.xml">
+    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.30 at 13h 47m 57s.xml">
       <configuration name="H2IntegrationJpaTest.selectOnlySomeColumnsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="H2IntegrationJpaTest - 2019.05.15 at 15h 39m 09s.xml">
-      <configuration name="H2IntegrationJpaTest" configurationId="JUnit" />
+    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.30 at 13h 52m 00s.xml">
+      <configuration name="H2IntegrationJpaTest.selectOnlySomeColumnsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="H2IntegrationJpaTest_selectOnlySomeColumnsTest - 2019.05.30 at 13h 52m 31s.xml">
+      <configuration name="H2IntegrationJpaTest.selectOnlySomeColumnsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9826000" />
+    <option name="totallyTimeSpent" value="1598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
@@ -778,9 +603,9 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2589928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3297414" />
+      <window_info anchor="bottom" id="Build" weight="0.33909288" />
       <window_info anchor="bottom" id="Messages" weight="0.32937366" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Terminal" />
@@ -818,10 +643,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -832,159 +657,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/unit/DataReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/unit/DateReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/application-test.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2Configuration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.1.3.RELEASE/8dc9577a4c20058f6ff101a4c664d9ceecc903fd/spring-boot-test-2.1.3.RELEASE-sources.jar!/org/springframework/boot/test/context/SpringBootTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorAnnotationMockitoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/signature/SignatureCreatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
-          <folding>
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureTestConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/StoredProcedureQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="84" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/spring/SignatureCreatorAnnotationSpringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="92" selection-start-line="26" selection-start-column="92" selection-end-line="26" selection-end-column="92" />
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#41#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/EntityManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="558" column="17" selection-start-line="558" selection-start-column="17" selection-end-line="558" selection-end-column="17" />
+        <state relative-caret-position="136">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/TypedQuery.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/DepartmentRepository.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/ConfigDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/marcskow/spring/bootstrap/tests/h2/H2IntegrationJpaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+        <state relative-caret-position="534">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
           <folding>
-            <element signature="e#967#997#0" expanded="true" />
             <element signature="e#0#20#1" expanded="true" />
             <element signature="e#0#20#1" expanded="true" />
             <element signature="e#0#41#1" expanded="true" />
-            <element signature="e#0#41#1" expanded="true" />
-            <element signature="e#0#46#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.5.RELEASE/3039db3b3041913b57092ce7fa8bb43ca1d5b214/spring-data-jpa-2.1.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/query/JpaQueryFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.1.5.RELEASE/3039db3b3041913b57092ce7fa8bb43ca1d5b214/spring-data-jpa-2.1.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/query/JpaQueryCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="191" column="30" lean-forward="true" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar!/javax/persistence/criteria/CriteriaQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-975">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#41#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcskow/spring/bootstrap/tests/mocked/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
+            <element signature="e#0#38#1" expanded="true" />
             <element signature="e#0#46#1" expanded="true" />
           </folding>
         </state>

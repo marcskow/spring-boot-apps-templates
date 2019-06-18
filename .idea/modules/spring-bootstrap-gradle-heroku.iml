@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="spring-bootstrap-gradle-heroku" external.linked.project.path="$MODULE_DIR$/../../spring-bootstrap-gradle-heroku" external.root.project.path="$MODULE_DIR$/../../spring-bootstrap-gradle-heroku" external.system.id="GRADLE" external.system.module.group="com.marcskow.spring" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-advanced" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-advanced" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" rootProjectPath="$MODULE_DIR$/../../spring-bootstrap-gradle-hibernate-inheritance" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-bootstrap-gradle-heroku">
@@ -12,7 +12,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="sonarModuleSettings">
+    <option name="alternativeWorkingDirPath" value="" />
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
   </component>
 </module>
